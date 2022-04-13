@@ -20,7 +20,6 @@ https://cdn.jsdelivr.net/gh/arleycn/cdn@master/images_pc/img_4.jpg
 https://cdn.jsdelivr.net/gh/arleycn/cdn@master/images_pc/img_5.jpg
 https://cdn.jsdelivr.net/gh/arleycn/cdn@master/images_pc/img_6.jpg
 https://cdn.jsdelivr.net/gh/arleycn/cdn@master/images_pc/img_7.jpg
-https://cdn.jsdelivr.net/gh/arleycn/cdn@master/images_pc/img_8.jpg
 
 
 ## pic
