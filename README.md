@@ -1,35 +1,9 @@
 # cdn
 https://cdn.jsdelivr.net/gh/arleycn/cdn@latest/
 
-
-## images_mo
-
-https://cdn.jsdelivr.net/gh/arleycn/cdn@master/images_mo/img_1.jpg
-https://cdn.jsdelivr.net/gh/arleycn/cdn@master/images_mo/img_2.jpg
-https://cdn.jsdelivr.net/gh/arleycn/cdn@master/images_mo/img_3.jpg
-https://cdn.jsdelivr.net/gh/arleycn/cdn@master/images_mo/img_4.jpg
-https://cdn.jsdelivr.net/gh/arleycn/cdn@master/images_mo/img_5.jpg
-
-
-## images_pc
-
-https://cdn.jsdelivr.net/gh/arleycn/cdn@master/images_pc/img_1.jpg
-https://cdn.jsdelivr.net/gh/arleycn/cdn@master/images_pc/img_2.jpg
-https://cdn.jsdelivr.net/gh/arleycn/cdn@master/images_pc/img_3.jpg
-https://cdn.jsdelivr.net/gh/arleycn/cdn@master/images_pc/img_4.jpg
-https://cdn.jsdelivr.net/gh/arleycn/cdn@master/images_pc/img_5.jpg
-https://cdn.jsdelivr.net/gh/arleycn/cdn@master/images_pc/img_6.jpg
-https://cdn.jsdelivr.net/gh/arleycn/cdn@master/images_pc/img_7.jpg
-https://cdn.jsdelivr.net/gh/arleycn/cdn@master/images_pc/img_8.jpg
-
-
 ## pic
 
 https://cdn.jsdelivr.net/gh/arleycn/cdn@master/pic/74.jpg
-https://cdn.jsdelivr.net/gh/arleycn/cdn@master/pic/guestmailbg.jpg
-https://cdn.jsdelivr.net/gh/arleycn/cdn@master/pic/mailbg.jpg
-
-
 ## yun
 
 https://cdn.jsdelivr.net/gh/arleycn/cdn@master/yun/css/github-markdown.css
