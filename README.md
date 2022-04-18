@@ -4,6 +4,10 @@ https://cdn.jsdelivr.net/gh/arleycn/cdn@latest/
 ## pic
 
 https://cdn.jsdelivr.net/gh/arleycn/cdn@master/pic/74.jpg
+https://cdn.jsdelivr.net/gh/arleycn/cdn@master/pic/guestmailbg.jpg
+https://cdn.jsdelivr.net/gh/arleycn/cdn@master/pic/mailbg.jpg
+
+
 ## yun
 
 https://cdn.jsdelivr.net/gh/arleycn/cdn@master/yun/css/github-markdown.css
